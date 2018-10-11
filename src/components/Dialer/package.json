@@ -1,0 +1,6 @@
+{
+  "name": "Dialer",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Dialer.js"
+}

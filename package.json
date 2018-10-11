@@ -1,0 +1,55 @@
+{
+  "name": "coreui-react",
+  "version": "1.0.0-alpha.6",
+  "private": true,
+  "jquery": true,
+  "homepage": "http://motherclock.localhost.com/",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.3.2",
+    "react-scripts": "1.0.6"
+  },
+  "dependencies": {
+    "@coreui/coreui-plugin-chartjs-custom-tooltips": "^1.2.0",
+    "chart.js": "2.5.0",
+    "history": "^4.7.2",
+    "jquery": "*",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.16",
+    "paginator": "^1.0.0",
+    "query-string": "^5.0.0",
+    "react": "^15.5.4",
+    "react-chartjs-2": "2.1.0",
+    "react-cropper": "^1.0.1",
+    "react-csv": "^1.0.14",
+    "react-date-range": "^1.0.0-alpha5",
+    "react-dom": "15.5.4",
+    "react-dropzone": "^4.2.9",
+    "react-input-mask": "^1.2.2",
+    "react-modal": "^2.2.2",
+    "react-number-format": "^3.0.2",
+    "react-paypal-express-checkout": "^1.0.3",
+    "react-responsive-modal": "^1.9.0",
+    "react-router-dom": "4.1.1",
+    "react-sticky-table": "^2.0.4",
+    "react-time-picker": "1.0.4",
+    "react-toastify": "3.0.0",
+    "react-transition-group": "^2.2.1",
+    "reactstrap": "4.6.2",
+    "superagent": "^3.8.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es6": true,
+    "jquery": true
+  }
+}

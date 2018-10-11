@@ -1,0 +1,6 @@
+{
+  "name": "HelpCenter",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./HelpCenter.js"
+}

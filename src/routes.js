@@ -1,0 +1,25 @@
+const routes = {
+  '/': 'Home',
+  '/projects': 'Projects',
+  '/dashboard': 'CompanyDashboard',
+  '/company': 'Company',
+  '/employee': 'Employee',
+  '/timecard': 'Time Card',
+  '/payroll': 'Payroll',
+  '/timerecord': 'Time Record',
+  '/components': 'Components',
+  '/charts': 'Charts',
+  '/components/buttons': 'Buttons',
+  '/components/social-buttons': 'Buttons',
+  '/components/cards': 'Cards',
+  '/components/forms': 'Forms',
+  '/components/modals': 'Modals',
+  '/components/switches': 'Switches',
+  '/components/tables': 'Tables',
+  '/components/tabs': 'Tabs',
+  '/icons': 'Icons',
+  '/icons/font-awesome': 'Font Awesome',
+  '/icons/simple-line-icons': 'Simple Line Icons',
+  '/widgets': 'Widgets'
+};
+export default routes;

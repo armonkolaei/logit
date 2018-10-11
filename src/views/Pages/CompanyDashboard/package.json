@@ -1,0 +1,6 @@
+{
+  "name": "CompanyDashboard",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./CompanyDashboard.js"
+}
